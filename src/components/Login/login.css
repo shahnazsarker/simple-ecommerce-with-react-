@@ -1,0 +1,16 @@
+.login-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: grey;
+    border-radius: 30px;
+    border-style: solid;
+    margin-top: 100px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 20px;
+    box-shadow: 5px 10px gray;
+}
+.login-header{
+    text-align: center;
+}
